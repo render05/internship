@@ -1,0 +1,3 @@
+Assignment 4 - File Practice
+Initial content written using 'w' mode.
+Appended content using 'a' mode.
