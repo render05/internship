@@ -1,0 +1,2 @@
+# No external dependencies required for this simple application.
+# It only uses standard library modules (sys, datetime).
